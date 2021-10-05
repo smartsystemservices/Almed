@@ -1,0 +1,23 @@
+{
+    "name": "Almed",
+    "description": "Communicate with smart system services Iot Platform",
+    "keywords": "Almed, smart system services, Smart trash, sensor, Iot, module,Drop off",
+    "authors": [
+        {
+            "name": "Mohamed diagana",
+            "email": "med_chouaibou@smartsystemservices.com",
+            "url": "smartsystemservices.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/smartsystemservices/Almed"
+    },
+    "version": "1.0.0",
+    "homepage": "https://www.pjrc.com/teensy/td_libs_Almed.html",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.pde"
+    ]
+}
